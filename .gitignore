@@ -1,0 +1,6 @@
+*.code-workspace
+.env
+# generated files
+gen
+node_modules
+target
